@@ -19,3 +19,5 @@ Integrar o [Sonic, jump!](https://github.com/lucascomp/sonic-jump-arduino-sdl) c
 * [Yago Tomé](https://github.com/yagotome)
 
 [Repositório do projeto](https://github.com/yagotome/sonic-jump-arduino-sdl)
+
+[Vídeo do projeto](https://www.youtube.com/watch?v=hUVc6oqPt-0)
